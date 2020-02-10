@@ -1,2 +1,2 @@
-## Load Profile Generator
+# Load Profile Generator
 the content need to change
