@@ -1,16 +1,16 @@
 # Load Profile Generator
 
-###List of Content:
+### List of Content:
 
 
-- [About](#About)
+- [1. About](#About)
 
 
 1
 1
 
 
-## About
+## 1. About
 
 
 Here is
