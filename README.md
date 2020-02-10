@@ -3,7 +3,7 @@
 ### List of Content:
 
 
-- [1. About](# About)
+- [About](# About)
 
 
 1
