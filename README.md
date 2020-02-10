@@ -2,7 +2,7 @@
 
 ### List of Content:
 1. [About](#About)
-1. [General Information](#General)
+1. [General Information](#General-Information)
 1. [Current Status](#Current)
 1. [Other](#Other)
 
