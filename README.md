@@ -1,19 +1,19 @@
 # Load Profile Generator
 
 ### List of Content:
-1. [About](#1.-About)
-2. [General Information](#2.-General-Information)
-3. [Current Status](#3.-Current-Status)
-4. [Other](#4.-Other)
+1. [About](#About)
+2. [General Information](#General-Information)
+3. [Current Status](#Current-Status)
+4. [Other](#Other)
 
-## 1. About
+## About
 Here is some information about the project.
 
-## 2. General Information
+## General Information
 Here is some information about the project.
 
-## 3. Current Status
+## Current Status
 Here is some information about the project.
 
-## 4. Other
+## Other
 Here is some other stuff related to the project.
