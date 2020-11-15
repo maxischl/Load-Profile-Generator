@@ -13,17 +13,10 @@ In order to depict various determinants of energy demand, the model is divided i
 1. [Setup](#1-Setup)
 2. [Run](#2-Run)
 3. [Configuration](#3-Configuration)
-<br>3.1  [Options](#3.1-Options)
-<br>3.2  [Recommendations](#3.2-Recommendations)
 4. [Input](#4-Input)
-<br>4.1  [Input Types](#4.1-Input-Types)
-<br>4.2  [Data Input](#4.2-Data-Input)
 5. [Output](#5-Output)
 6. [Modifications](#6-Modifications)
 7. [Extensions](#7-Extensions)
-<br>7.1  [AutoStart](#7.1-AutoStart)
-<br>7.2  [DemandRegio](#7.2-DemandRegio)
-<br>7.3  [ZVE](#7.3-ZVE)
 
 
 ## **1. Setup**
